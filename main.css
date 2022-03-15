@@ -1,0 +1,33 @@
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+ 
+    
+}
+#side1{
+    float: left;
+    border: solid blueviolet;
+    margin: 10px;
+    border-radius: 25px;
+   
+}
+#side2{
+    float: left;
+    border:  solid blueviolet;
+    margin: 10px;
+    border-radius: 25px;
+    
+}
+a{
+    text-decoration: none;
+    color:blueviolet;
+    background-color: white;
+    border-radius: 25px;
+    border: solid pink;
+}
+
+
+#border{
+    padding:2%;
+}
